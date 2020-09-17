@@ -1,2 +1,3 @@
-# IBUC2021
-Source code for the Custom MVC applications session of IBUC 2020
+IBUC 2020
+This repository contains the source code for the demo of the Custom MVC applications session of IBUC 2020.
+This repository will remain publically available for a limited time only.
